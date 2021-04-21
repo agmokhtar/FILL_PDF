@@ -1,0 +1,3 @@
+In this example, the code reads a pdf template and modifies it. When opening the file within the code, the change (new name) shows up in AcrobatReader. 
+However, when closing the PDF file without any change in AcrobatReader, a prompt asks "Would you like to save the changes?"... 
+The question is why the changes that the Python code does are not saved?
